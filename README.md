@@ -12,4 +12,7 @@ and call the intent for activity which is manage all the things.</br>
 
 # Screenshots
 
-![alt text](https://s19.postimg.org/h35lm1gn7/Screenshot_20170922_230129_1.png)
+<p align="center">
+        <img src="https://s19.postimg.org/oyg50uq9v/Screenshot_20170922_230254_2.png" width="350"/>
+        <img src="https://s19.postimg.org/h35lm1gn7/Screenshot_20170922_230129_1.png" width="350"/>
+</p>
