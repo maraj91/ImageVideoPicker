@@ -18,7 +18,7 @@ import com.example.maraj.imagevideopicker.R;
 import java.util.ArrayList;
 
 /**
- * Created by igniva-android-31 on 8/6/17.
+ * Created by maraj
  */
 
 public class LoadGalleryImageAdapter extends RecyclerView.Adapter<LoadGalleryImageAdapter.MyViewHolder> {

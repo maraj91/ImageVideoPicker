@@ -25,8 +25,9 @@ import com.example.maraj.imagevideopicker.adapter.LoadGalleryVideoAdapter;
 import java.util.ArrayList;
 
 
+
 /**
- * Created by igniva-android-17 on 8/9/17.
+ * Created by maraj
  */
 
 public class FragmentGalleryVideo extends Fragment implements View.OnClickListener {

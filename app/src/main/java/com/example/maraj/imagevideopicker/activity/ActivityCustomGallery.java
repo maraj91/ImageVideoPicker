@@ -25,7 +25,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by igniva-android-17 on 8/9/17.
+ * Created by maraj
  */
 
 public class ActivityCustomGallery extends AppCompatActivity {
